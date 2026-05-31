@@ -1,3 +1,19 @@
+#File:initials.py
+#Description:Print large block initials(VDA)using string and print functions
+#Assignment:1
+#
+#Name:Vanessa Adwoa Darkowaa
+#Student ID:2425402565
+#Email:2425402565@live.gctu.edu.gh
+#Grader:Augustus Buckman
+#
+#On my honor, Vanessa Adwoa Darkowaa,this programming assignment is my own work ansd i have not
+#povided this code to anyone.
+
+
+
+
+
 # 1. Blank line before the small initials
 print()
 
